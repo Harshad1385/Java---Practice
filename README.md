@@ -1,1 +1,1 @@
-Java basic tutorial.
+Java basic tutorial for practice
